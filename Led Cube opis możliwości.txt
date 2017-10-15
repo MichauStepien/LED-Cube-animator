@@ -1,0 +1,18 @@
+Lista mo¿liwoœci:
+-import (odczyt z pliku)
+-eksport w wersji binarnej i heksagonalnej,
+-szerokie menu i du¿e mo¿liwoœci kastomizacji aplikacji (np. zmiana koloru pó³),
+-zaimplementowano autorska wersje openGl do wizualizacji pó³ i tworzenia animacji,
+-mo¿liwoœæ wyboru osi,
+-mo¿liwoœæ wyboru i swobodnego wyboru warstwy,
+-mo¿liwoœæ wyboru numeru klatki animacji, dodanie kolejnej lub aktualizacja ju¿ istniej¹cych,
+-wybór trybu wyœwietlania – prostok¹tny lub perspektywa,
+-szybkie zaznaczanie oraz usuwanie, ca³oœci lub jeden p³aszczyzny,
+-mo¿liwoœæ wczytywania i zapisywania uk³adu klatek oraz korekcja,
+-mo¿liwoœæ ustawania szybkoœci animacji,
+-zaimplementowana pod aplikacja do komunikacji – mo¿liwoœæ wysy³ania pakietów UDP,
+-mo¿liwoœæ odbierania pakietów UDP oraz wy³¹czenia/ ponownego wznowienia,
+-zabezpieczenie aplikacji przed zamkniêciem programu przed „uœmierceniem” w¹tku odbieraj¹cego pakiety UDP,
+-przycisk pomoc oferuje jak sama nazwa wskazuje pomoc w u¿yciu aplikacji (puki co w fazie implementacji),
+-rozwi¹zano problem przechowywania danych o klatkach –w skrócie tablica obiektów typu tablica(64,8),
+-rozwi¹zano problem funkcji blokuj¹cych – odbieranie pakietów UDP,
